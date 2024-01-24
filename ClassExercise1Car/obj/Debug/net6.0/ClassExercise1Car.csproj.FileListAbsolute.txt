@@ -1,0 +1,14 @@
+C:\Users\ahmad\Desktop\Repo\inheritence\ClassExercise1Car\ClassExercise1Car\bin\Debug\net6.0\ClassExercise1Car.exe
+C:\Users\ahmad\Desktop\Repo\inheritence\ClassExercise1Car\ClassExercise1Car\bin\Debug\net6.0\ClassExercise1Car.deps.json
+C:\Users\ahmad\Desktop\Repo\inheritence\ClassExercise1Car\ClassExercise1Car\bin\Debug\net6.0\ClassExercise1Car.runtimeconfig.json
+C:\Users\ahmad\Desktop\Repo\inheritence\ClassExercise1Car\ClassExercise1Car\bin\Debug\net6.0\ClassExercise1Car.dll
+C:\Users\ahmad\Desktop\Repo\inheritence\ClassExercise1Car\ClassExercise1Car\bin\Debug\net6.0\ClassExercise1Car.pdb
+C:\Users\ahmad\Desktop\Repo\inheritence\ClassExercise1Car\ClassExercise1Car\obj\Debug\net6.0\ClassExercise1Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmad\Desktop\Repo\inheritence\ClassExercise1Car\ClassExercise1Car\obj\Debug\net6.0\ClassExercise1Car.AssemblyInfoInputs.cache
+C:\Users\ahmad\Desktop\Repo\inheritence\ClassExercise1Car\ClassExercise1Car\obj\Debug\net6.0\ClassExercise1Car.AssemblyInfo.cs
+C:\Users\ahmad\Desktop\Repo\inheritence\ClassExercise1Car\ClassExercise1Car\obj\Debug\net6.0\ClassExercise1Car.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Desktop\Repo\inheritence\ClassExercise1Car\ClassExercise1Car\obj\Debug\net6.0\ClassExercise1Car.dll
+C:\Users\ahmad\Desktop\Repo\inheritence\ClassExercise1Car\ClassExercise1Car\obj\Debug\net6.0\refint\ClassExercise1Car.dll
+C:\Users\ahmad\Desktop\Repo\inheritence\ClassExercise1Car\ClassExercise1Car\obj\Debug\net6.0\ClassExercise1Car.pdb
+C:\Users\ahmad\Desktop\Repo\inheritence\ClassExercise1Car\ClassExercise1Car\obj\Debug\net6.0\ClassExercise1Car.genruntimeconfig.cache
+C:\Users\ahmad\Desktop\Repo\inheritence\ClassExercise1Car\ClassExercise1Car\obj\Debug\net6.0\ref\ClassExercise1Car.dll

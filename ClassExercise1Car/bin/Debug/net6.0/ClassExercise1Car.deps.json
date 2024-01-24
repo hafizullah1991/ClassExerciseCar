@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ClassExercise1Car/1.0.0": {
+        "runtime": {
+          "ClassExercise1Car.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassExercise1Car/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
